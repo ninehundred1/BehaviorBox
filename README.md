@@ -18,9 +18,6 @@ The GUI supports several input devices, from rotational devices (balls, wheels, 
 The stimuli are currently focusing on finding contours and shapes in complex random backgrounds, where a choice has to be made between the contour being present on the left or right, and a reward is given if the input device is moved to the correct side.
 
 
-![MATLAB BehaviorBox Stimulus](http://i.imgur.com/VB77d3O.jpg)
-
-
 The GUI also includes training modes to learn the interaction with the hardware (such as levers or ports).
 
 
