@@ -21,6 +21,7 @@ The stimuli are currently focusing on finding contours and shapes in complex ran
 The GUI also includes training modes to learn the interaction with the hardware (such as levers or ports).
 
 
+![MATLAB BehaviorBox Arduino Wiring](http://i.imgur.com/FfSsqer.jpg)
 
 
 The hardware interfaces using Arduino micro controllers, an example for wiring using the rotary encoders of a computer mouse is illustrated below.
